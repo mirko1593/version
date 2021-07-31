@@ -1,4 +1,4 @@
-module github.com/mirko1593/version
+module github.com/mirko1593/version/v2
 
 go 1.14
 
