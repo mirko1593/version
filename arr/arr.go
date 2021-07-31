@@ -1,9 +1,9 @@
 package arr
 
-func SumInt(ints ...int) int {
+func SumInt(nums ...int) int {
 	sum := 0
 
-	for i := range ints {
+	for _, i := range nums {
 		sum += i
 	}
 
